@@ -13,20 +13,20 @@ This is a Node.js API built with TypeScript and Express for classifying numbers 
 # Prime Number
 A prime number is a number greater than 1 that has exactly two divisors: 1 and itself. This means it cannot be divided evenly by any other number.
 
- -**Examples: 2, 3, 5, 7, 11, 13, ...**
- -**The function checks divisibility by iterating from 2 to sqrt(n), as factors appear in pairs.**
+ - **Examples: 2, 3, 5, 7, 11, 13, ...**
+ - **The function checks divisibility by iterating from 2 to sqrt(n), as factors appear in pairs.**
 
 ## Perfect Number
 A perfect number is a number that is equal to the sum of its proper divisors (excluding itself).
- -**Examples: 6, 28, 496, 8128**
--**For instance, 6 has divisors 1, 2, 3 → 1 + 2 + 3 = 6, so it's a perfect number.**
+ - **Examples: 6, 28, 496, 8128**
+ - **For instance, 6 has divisors 1, 2, 3 → 1 + 2 + 3 = 6, so it's a perfect number.**
 
 ## Armstrong Number (Narcissistic Number)
 An Armstrong number (or narcissistic number) is a number that is equal to the sum of its own digits each raised to the power of the number of digits.
 
- -**Examples: 153, 370, 371, 407**
+ - **Examples: 153, 370, 371, 407**
 
- -**For instance, 371: [ 3^3 + 7^3 + 1^3 = 27 + 343 + 1 = 371 ]**
+ - **For instance, 371: [ 3^3 + 7^3 + 1^3 = 27 + 343 + 1 = 371 ]**
  Since the sum equals the original number, 371 is an Armstrong number.
 
  Setup Guide
