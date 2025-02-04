@@ -75,7 +75,7 @@ npm run build && npm start
 
 ---
 
-## 🖥 How to use API
+## How to use API
 
 ### **Base URL:**  
 ```
@@ -139,7 +139,7 @@ If an invalid number is provided, the API returns a **400 Bad Request**:
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the **MIT License**.
 
 ---
@@ -147,4 +147,4 @@ This project is licensed under the **MIT License**.
 ## Backlink
 Node.js: https://hng.tech/hire/nodejs-developers
 
--**Coded by © BraitCode**
+- **Coded by © BraitCode**
