@@ -2,12 +2,12 @@
 This is a Node.js API built with TypeScript and Express for classifying numbers based on various mathematical properties.
 
 ## Features of this API
-# Determines if a number is prime, perfect, Armstrong, even, or odd
-1. It calculates the sum of the digits of the number
-2. It fetches a fun fact about the number from the Numbers API
-3. Typescript is used for type safety
-4. It supports API versioning (/api/v1)
-5. Implements error handling and validation
+1. Determines if a number is prime, perfect, Armstrong, even, or odd
+2. It calculates the sum of the digits of the number
+3. It fetches a fun fact about the number from the Numbers API
+4. Typescript is used for type safety
+5. It supports API versioning (/api/v1)
+6. Implements error handling and validation
 
 ## Mathematical Concepts Behind the Classifications
 # Prime Number
